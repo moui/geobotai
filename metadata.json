@@ -1,0 +1,7 @@
+{
+  "name": "GeoBot AI",
+  "description": "An intelligent GIS chatbot powered by Gemini that can query ArcGIS datasets, perform spatial analysis, and visualize results on an interactive map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
